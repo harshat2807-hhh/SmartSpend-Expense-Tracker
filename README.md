@@ -1,5 +1,14 @@
 # SmartSpend – Personal Expense Tracker
 
+## 🚀 Live Demo
+
+[Open SmartSpend Live Website](https://smartspend-expense-tracker-xrbp.onrender.com)
+
+
+
+
+# SmartSpend – Personal Expense Tracker
+
 SmartSpend is a modern, responsive full-stack personal finance web application built with **Python Flask**, **SQLite**, and vanilla **HTML5/CSS3/JavaScript (Fetch API)**. It enables users to track daily expenses, categorize transactions, view live financial analytics, and maintain complete control over their personal budget.
 
 ---
